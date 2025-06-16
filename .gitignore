@@ -1,0 +1,24 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.vsp
+*.pdb
+*.cache
+*.log
+.vs/
+*.dbmdl
+*.jfm
+*.psess
+
+# Build
+build/
+out/
+
+# Rider
+.idea/
+
+# Mac/Linux
+.DS_Store
+*.swp

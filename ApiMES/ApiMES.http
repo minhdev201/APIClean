@@ -1,0 +1,10 @@
+@ApiMES_HostAddress = https://localhost:7123
+
+GET {{ApiMES_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{ApiMES_HostAddress}}/weatherforecast
+
+###
