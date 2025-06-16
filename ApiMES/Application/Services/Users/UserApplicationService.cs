@@ -1,6 +1,7 @@
 ﻿using ApiMES.Application.DTOs.Users;
-using ApiMES.Domain.Entities;
-using ApiMES.Infrastructure.DAOs;
+using ApiMES.Domain.Entities.Users;
+using ApiMES.Infrastructure.DAOs.HRMS;
+using ApiMES.Infrastructure.DAOs.IM;
 using ApiMES.Infrastructure.Database;
 using ApiMES.Shared.Results;
 using Dapper;

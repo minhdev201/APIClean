@@ -1,5 +1,7 @@
 ﻿using ApiMES.Domain.Entities;
-using ApiMES.Infrastructure.DAOs;
+using ApiMES.Domain.Entities.Users;
+using ApiMES.Infrastructure.DAOs.Common;
+using ApiMES.Infrastructure.DAOs.User;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
